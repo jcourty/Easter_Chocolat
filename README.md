@@ -1,4 +1,3 @@
 # Easter_Chocolat
 
-
-![[(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZyNnVlMDNzMzM4bWZydmZ5OTN3cTRnNDh0cjBrcmZiMHZzeWYyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iFCp5vk5VXOIgDqMsM/giphy.gif)]
+![giphy](https://github.com/user-attachments/assets/0d5b6b82-1876-434e-abb5-3321356ede9d)
